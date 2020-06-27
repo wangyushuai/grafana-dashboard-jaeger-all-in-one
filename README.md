@@ -1,5 +1,4 @@
 # grafana-dashboard-jaeger-all-in-one
-grafana dashboard jaeger all-in-one
 
 官方链接： https://grafana.com/grafana/dashboards/12535
 
